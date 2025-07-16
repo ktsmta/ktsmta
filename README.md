@@ -1,4 +1,4 @@
-## Hi!👋 Welcome to my GitHub🐈‍⬛🐾
+## Hi👋 Welcome to my GitHub🐈‍⬛🐾
 
 ### Now Learning📚
 - Git
