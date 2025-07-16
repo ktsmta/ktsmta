@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi!👋 Welcome to my GitHub🐈‍⬛🐾
 
-<!--
-**ktsmta/ktsmta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Now Learning📚
+- Git
+- Docker
 
-Here are some ideas to get you started:
+### Skills🛠️
+- HTML
+- CSS
+- Python
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact📫
+- Email: ktsmta@duck.com<br>
+  (*no spam or ads, please*)
